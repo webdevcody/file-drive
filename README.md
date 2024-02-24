@@ -37,12 +37,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## TODO
 
-- uploaded by
-- upload date
 - filters by type
 - shared with me
 - table view
 - view toggle
 - folders
-- icon
 - landing page
